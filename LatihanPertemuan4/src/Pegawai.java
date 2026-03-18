@@ -25,6 +25,10 @@ public class Pegawai {
         this.gajiPokok = gajiPokok;
     }
 
+    public int getMasaKerja() {
+        return Period.between(TMT, LocalDate.now()).getYears();
+    }
+
     public Period getMasaKerjaDetail(){
         return Period.between(TMT, LocalDate.now());
     }
@@ -42,7 +46,9 @@ public class Pegawai {
     public void printInfo() {
         System.out.println("NIP : " + NIP);
         System.out.println("Nama : " + Nama);
-        System.out.println("Tanggal Lahir : " + tanggalLahir);
+        System.out.println("Tanggal Lahir     : " + formatTanggal(tanggalLahir));
+        System.out.println("TMT               : " + formatTanggal(TMT));
+        System.out.println("Gaji Pokok        : " + formatRupiah(gajiPokok));
         System.out.println("TMT : " + TMT);
         System.out.println("Gaji Pokok : " + gajiPokok);
     }
