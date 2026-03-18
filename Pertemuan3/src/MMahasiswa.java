@@ -1,7 +1,7 @@
 // Nama File    : MMahasiswa.java
 // Deskripsi    : Berisi program main
 // Pembuat      : Aditya Sultonul Ulya
-// Tanggal      : 05/03/2026
+// Tanggal      : 14/03/2026
 
 public class MMahasiswa {
     public static void main(String[] args) {
