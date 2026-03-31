@@ -4,6 +4,7 @@
  *               dengan klausa throw dan throws
  * Pembuat      : Aditya Sultonul Ulya
  * NIM          : 240601214120006
+ * 
  */
 
 public class AngkaSial {
