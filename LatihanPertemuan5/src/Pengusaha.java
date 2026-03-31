@@ -1,4 +1,4 @@
-// Nama File    : Manusia.java
+// Nama File    : Pengusaha.java
 // Deskripsi    : Class Pengusaha
 // Pembuat      : Aditya Sultonul Ulya
 // NIM          : 240601214120006

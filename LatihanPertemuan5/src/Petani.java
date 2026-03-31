@@ -1,4 +1,4 @@
-// Nama File    : Manusia.java
+// Nama File    : Petani.java
 // Deskripsi    : Class Petani
 // Pembuat      : Aditya Sultonul Ulya
 // NIM          : 240601214120006

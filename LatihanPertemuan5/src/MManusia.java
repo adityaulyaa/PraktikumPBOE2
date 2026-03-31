@@ -1,4 +1,4 @@
-// Nama File    : Manusia.java
+// Nama File    : MManusia.java
 // Deskripsi    : Main Manusia
 // Pembuat      : Aditya Sultonul Ulya
 // NIM          : 240601214120006

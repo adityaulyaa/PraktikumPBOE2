@@ -1,4 +1,4 @@
-// Nama File    : Manusia.java
+// Nama File    : Pajak.java
 // Deskripsi    : Interface Pajak
 // Pembuat      : Aditya Sultonul Ulya
 // NIM          : 240601214120006
